@@ -1,0 +1,22 @@
+﻿Modified the image loop to use CSS3 transistions instead of jS
+Updated @media for the headshot & name area
+House keeping
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	modified:   css/main.css
+#	modified:   css/normalize.css
+#	modified:   css/style.css
+#	deleted:    img/customBG.jpg
+#	modified:   index.html
+#	modified:   js/main-dist.js
+#	deleted:    js/vendor/modernizr-2.8.3.min.js
+#
+# Untracked files:
+#	css/slide.css
+#	img/
+#	s3hxsojv.o3f.txt
+#
+
